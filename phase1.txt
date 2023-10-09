@@ -1,0 +1,122 @@
+    
+DATA INTEGRATION:
+
+      Serverless computing allows you to build and run applications and services without thinking about 
+servers. 
+     Serverless applications don't require you to provision, scale, and manage any servers.
+       
+     You can build them for nearly any type of application or backend service, and everything 
+required to run and scale your application with high availability is handled for you.
+
+      Building serverless applications means that you can focus on your core product instead of 
+worrying about managing and operating servers or runtimes, either in the cloud or on-premises.
+   
+      This reduced overhead lets you reclaim time and energy that you can spent on developing great 
+productsServerless computing allows you to build and run applications and services without thinking
+ about servers. 
+       
+      Serverless applications don't require you to provision, scale, and manage any servers. which 
+scale and that are reliable.
+
+DATA COLLECTION:      
+       
+       The Internet of Things (IoT) adds value to practically every industry, from manufacturing and 
+logistics to retail and resource management. Drones, delivery vehicles, medical gadgets, security 
+cameras, and construction equipment are among the linked “things” that the Internet of Things 
+collects data from.
+
+      While IoT sensors and devices collect a plethora of data, they also generate massive,
+ difficult-to-manage, high-speed data streams that must be managed, analyzed, stored, and protected. 
+       IoT data is also perishable, and without the right tools, companies will miss out on the most valuable
+ time-sensitive insights.
+
+        This post will look at how real-time data analytics and IoT applications work together to open up new 
+possibilities in various industries.
+
+ What does real-time data processing mean for the internet of things (IoT) applications?
+         Organizations from all sectors struggle to keep up with the vast datasets growing exponentially as IoT
+use grows. IoT devices and sensors, for example, may gather gigabytes of data in just a few hours—and
+that’s before you include data from your CRM, social media channels, financial reports, and other 
+sources.
+
+REAL TIME PROCESSING:
+
+       Artificial intelligence, big data analytics, and machine learning are all advancing at a rapid pace at
+the same time. 
+     By using AI to IoT data management and analytics, organizations can quickly extract
+ vital information from these massive, heterogeneous data sets and adjust to real-time conditions. 
+    These technologies are coming together to produce game-changing breakthroughs. For example, Big Data’s 
+inherent features make it perfect for fast training AI and machine learning systems.
+
+     These intelligent programs can then automate operations, predict equipment failures, and detect 
+security threats in real-time. In fully autonomous solutions, AI assumes control and is guided by a 
+network of connected IoT devices.By transmitting data as autonomous driving proceeds at all levels,
+ real-time analytics can assist drivers with safety features like as automated braking, parking, and 
+collision avoidance. While there are several examples of what AI, advanced analytics, and the Internet of Things can 
+achieve, they cannot deliver on their promises without the right tools.
+
+     Powerful computing is required for real-time insights.
+     The majority of today’s IoT systems were created to link various devices within a network and merge 
+and process data streams from multiple heterogeneous sources. 
+      Many of the IoT’s concerns, such as storage, security, and interoperability, are addressed by these platforms, which can 
+also be integrated with data analytics tools to deliver valuable business insights. Real-time data processing isn’t possible 
+with most data analytics systems since they use a cloud computing architecture called Platform as a Service (PaaS).
+
+      According to a recent analysis, using cloud-based systems to handle IoT data has various drawbacks, 
+including security issues, latency, and missed opportunities to act on solid and real-time insights. 
+      While IoT data streams record what’s going on at the moment, processing them implies transferring them to the cloud for 
+off-line analysis and processing, which can then be evaluated at a later date. You’re also part of a system where you transfer
+ large amounts of data to a faraway place, perhaps exceeding network bandwidth and wasting storage space and 
+processing power on useless data.
+
+      While 29% of participating companies have included edge computing in their analytics strategy, 69 percent of 
+respondents felt that prioritizing edge computing for IoT data processing will help them accomplish their core bus
+iness goals. On the other hand, Edge computing will not be enough to enable real-time data analytics.
+ 
+AUTOMATION:
+
+      The IoT and big data analytics convergenceThe combination of IoT, Big Data, and AI-driven analytics opens up a slew of
+ new possibilities for businesses to develop more competitive business models.
+ 
+       For digital driving transformation, enterprise strategy is becoming increasingly important. While the research notes
+ that big data enthusiasm has dropped in recent years, advances in AI and machine learning are rekindling interest by 
+presenting new ways to process data and put it to good use.
+
+      Simultaneously, increasingly affordable hardware, software, and sensors and evolving standards and best practices 
+accelerate IoT adoption. 
+     As a result, the number of linked “things” (including audio, video, and photos) gathering continuous data streams and 
+metrics that monitor machine functioning, ambient conditions, and other factors is fast increasing.
+
+      Big data’s importance in the internet of thingsBusinesses employ Internet of Things (IoT) devices to collect data. 
+
+      Because the data collected by IoT devices is unstructured, Big Data analyses it in real-time and saves it in various 
+storage systems. 
+
+     As a result, there is a compelling need for IoT big data.
+
+     The processing of IoT big data is divided into four steps.
+     IoT devices produce a lot of unstructured data, subsequently stored in a big data system.
+ 
+      A distributed database that stores a significant amount of data is a big data system.
+       To investigate the data that has been stored, analytic tools such as Hadoop MapReduce or Spark are employed.
+
+    Then, using the data that has been analyzed, create reports.
+
+    What are the effects of IoT and big data on each other?
+
+             IoT and Big Data are inextricably linked and significantly impact one another. As the 
+IoT expands, so does the demand for big data capabilities. The daily expansion of data volume needs 
+more advanced and unique storage solutions, necessitating the updating of a company’s big data storage infrastructure.
+
+The future of big data and IoT are intertwined. The two areas will undoubtedly co-create new solutions and possibilities 
+with long-term implications.
+
+Conclusion:
+      IoT and Big Data analytics are no longer merely props for future use cases; they’re quickly essential tools for staying 
+competitive. They help companies get more value from IoT sensors and systems by merging IoT data with existing business 
+tools and third-party data sets to add context.
+
+      The information can then improve products, services, and customer experiences. Companies must, however,ensure that 
+they have the infrastructure in place to handle real-time data processing at scale to get 
+the most out of their investments.
+
